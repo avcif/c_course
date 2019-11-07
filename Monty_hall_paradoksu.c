@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-// rand fonk. sistemden bize rastgele istenilen veri tipinde input vermesi için kullanılır
+// rand fonk. sistemden bize rastgele input vermesi için kullanılır
 int main(){
 	int not_change = 0;
 	int change = 0;
